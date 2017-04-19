@@ -1,0 +1,41 @@
+body {
+  margin: 0 5%;
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.first-column {
+  float: left;
+  width: 34%;
+  padding: 3%;
+}
+
+img {
+  width: 85%;
+  margin: 0 5%;
+  padding: 0.1%;
+  border: solid 5px #000;
+}
+
+.sidebar {
+  text-align: center;
+  float: left;
+  width: 20%;
+  background-color: yellow;
+  margin-top: 38px;
+  padding-bottom: 190px;
+}
+
+.footer {
+  float: left;
+  font-variant: small-caps;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 3%;
+}
